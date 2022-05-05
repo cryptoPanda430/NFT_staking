@@ -1,0 +1,192 @@
+{
+    "chiprace_param": {
+        "carType": [
+            {   
+                "name": "Malibu",
+                "uri": "https://ipfs.io/ipfs/bafyreifofk4rlsod6t3jucmeci4bdxjslmj4vfzcdlfzff7fc6nf67hdxa/metadata.json",
+                "type": 1
+            },
+            {
+                "name": "CoinracerGT",
+                "uri": "https://ipfs.io/ipfs/bafyreibpievbwxvrt3itegt2eenv23ahtbjrpcfn6c7uhdtwoq2v25qleu/metadata.json",
+                "type": 1
+            },
+            {
+                "name": "Nightcrawler",
+                "uri": "https://ipfs.io/ipfs/bafyreiaqwc3xwvjx7ndzmdxrly7gurddkrgqzdi6oxsrb4pt6jgob5icky/metadata.json",
+                "type": 1
+            },
+            {
+                "name": "Telecoin",
+                "uri": "https://ipfs.io/ipfs/QmP9XJX5Ler2pa7sWyRdoLRXtNgk8ffC4Hjt9aYnSDk2U2",
+                "type": 1
+            },
+            
+            {
+                "name": "Coinrarri",
+                "uri": "https://ipfs.io/ipfs/bafyreihbyzydz55hilb4qvk3ckmygrv3c23o45uednc5jwltlktd4su26a/metadata.json",
+                "type": 2
+            },
+            {
+                "name": "Lambo",
+                "uri": "https://ipfs.io/ipfs/QmQBZksfbruM4QXoiVbsao9tSqk7TLZoPFvzqTw3t94ZaE",
+                "type": 2
+            },
+            {
+                "name": "CyberCar",
+                "uri": "https://ipfs.io/ipfs/bafyreigjsodevy6wlwlg2hh3v376tuo3m6ld645btmk6gyf3khi7mjflzm/metadata.json",
+                "type": 3
+            },
+            {
+                "name": "Hovercar",
+                "uri": "https://ipfs.io/ipfs/QmUZnADARvRJU2hVoXYFBuezSoxhrmJGPsntRmyafhRi8V",
+                "type": 3
+            },
+            {
+                "name": "Merky",
+                "uri": "https://ipfs.io/ipfs/bafyreidnv2aig6airf734o6w5y6cydm7tzecnpx6vkazrcpit54x2v6zoi/metadata.json",
+                "type": 4
+            },
+            {
+                "name": "Blackace",
+                "uri": "https://ipfs.io/ipfs/Qma7oWboiRMQvrF5CebWL9dGKeqcF1m1A5KGLLAfnZQfZE",
+                "type": 4
+            },
+            {
+                "name": "Bonecrusher",
+                "uri": "https://ipfs.io/ipfs/bafyreigt3yvfpkcisozcmyviavprdsdyncvklnluacjq3yzakhybh2qc74/metadata.json",
+                "type": 5
+            },
+            {
+                "name": "Luckybus",
+                "uri": "https://ipfs.io/ipfs/Qmb9dF1AjPd2fHjWatGWvGugZTowA7J6c79S3ZKqViaEgF",
+                "type": 5
+            }
+        ],
+        "mutantCarType": [
+            {   
+                "name": "Malibu",
+                "uri": "https://ipfs.io/ipfs/QmXgD6t3YzYfryMQUvjskX7r9kHXzf7yNtinXtGm8NFtGF",
+                "type": 1
+            },
+            {
+                "name": "CoinracerGT",
+                "uri": "https://ipfs.io/ipfs/QmZoLMCrgmsfD4Ug6krPZR4gypARBhqgU5qpb2F5KVJLLC",
+                "type": 1
+            },
+            {
+                "name": "Nightcrawler",
+                "uri": "https://ipfs.io/ipfs/Qma7PcSQ4oST4rGi577oJkmnJ1nQ3HCKE5PEoiDdhQMYWh",
+                "type": 1
+            },
+            {
+                "name": "Telecoin",
+                "uri": "https://ipfs.io/ipfs/QmWJ3vu1pF5A5rkYmoJDrYP5J3rUFcovmv5mxbZMQ1LNeD",
+                "type": 1
+            },
+            
+            {
+                "name": "Coinrarri",
+                "uri": "https://ipfs.io/ipfs/QmZmkA7vuVitAUZvRMkN87frbvy6V84xkinTMVwGpwxXdy",
+                "type": 2
+            },
+            {
+                "name": "Lambo",
+                "uri": "https://ipfs.io/ipfs/Qmewv66BvPBMCiJhjecqkXRNtkwLPbziXXT25dcSjmpm8r",
+                "type": 2
+            },
+            {
+                "name": "CyberCar",
+                "uri": "https://ipfs.io/ipfs/QmR2xa2nrmtG2viEwYHxzgV7u2YijNZV1wkTsQxjFpeZiW",
+                "type": 3
+            },
+            {
+                "name": "Hovercar",
+                "uri": "https://ipfs.io/ipfs/QmaVgQHFKzHVruPDogLuVaruAtGDs25FeYR6Fo5hxYN3HL",
+                "type": 3
+            },
+            {
+                "name": "Merky",
+                "uri": "https://ipfs.io/ipfs/QmQhFT5xPdhhCRLvJ1vJnBuBKPGSqWdPGaGyVmFyyjtGE3",
+                "type": 4
+            },
+            {
+                "name": "Blackace",
+                "uri": "https://ipfs.io/ipfs/QmPoM4hdGjA2KrLB3qgx1EG2u1rgPmW21nsEK3pXrU2LE3",
+                "type": 4
+            },
+            {
+                "name": "Bonecrusher",
+                "uri": "https://ipfs.io/ipfs/QmY7bPHVAD9Ycf62oo8gknPJvTcxsEMgTYjLxCfdFmU1t3",
+                "type": 5
+            },
+            {
+                "name": "Luckybus",
+                "uri": "https://ipfs.io/ipfs/QmQv6m25wVEVcsPWU91uh1f35m4hn6yq5YAfcU7merQcEH",
+                "type": 5
+            }
+        ],
+        "minableAmount" : [
+            {
+                "carType": 1,
+                "amount" : [0.0167, 0.0208, 0.0257, 0.0319, 0.0396]
+            },
+            {
+                "carType": 2,
+                "amount" : [ 0.0118, 0.0146, 0.0181, 0.0222, 0.0278]
+            },
+            {
+                "carType": 3,
+                "amount" : [0.0056, 0.0069, 0.009, 0.0111, 0.0139]
+            },
+            {
+                "carType": 4,
+                "amount" : [0.0049, 0.0063, 0.0076, 0.0097, 0.0118]
+            },
+            {
+                "carType": 5,
+                "amount" : [0.0028, 0.0036, 0.0044, 0.0056, 0.0069]
+            }
+        ],
+        "upgradeAmount" : [
+            {
+                "carType": 1,
+                "amount" : ["175.6", "219.4", "274.2", "342.8"]
+            },
+            {
+                "carType": 2,
+                "amount" : [ "122.8", "153.6", "192", "240"]
+            },
+            {
+                "carType": 3,
+                "amount" : ["61.4", "76.8", "96", "120"]
+            },
+            {
+                "carType": 4,
+                "amount" : ["51.2", "64", "80", "100"]
+            },
+            {
+                "carType": 5,
+                "amount" : ["31.6", "39.4", "49.2", "61.6"]
+            }
+        ],
+        "targetScore" : [
+            {
+                "level": 1,
+                "score" : 500
+            },
+            {
+                "level": 2,
+                "score" : 1000
+            },
+            {
+                "level": 3,
+                "score" : 1500
+            },
+            {
+                "level": 4,
+                "score" : 2000
+            }
+        ]
+    }
+}
